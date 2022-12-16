@@ -22,3 +22,9 @@ In this project, a machine learning pipeline has been developed to categorize a 
     - To run ML pipeline that trains classifier and saves
 
     python models/train_classifier.py data/disaster_messages_database.db models/classifier.pkl            
+
+2. Go to `app` directory: 
+    cd app
+
+3. Run your web app: 
+    python run.py
