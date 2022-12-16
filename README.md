@@ -54,4 +54,16 @@ classifier.pkl  # saved model
      
 - ## Results:
 
-![]()
+![webpage demo 1](https://github.com/SohamBera16/ML-based-automated-disaster-message-classification-and-response-generation-pipeline/blob/main/screenshots/webpage%20snippet%201.png)
+
+![webpage demo 2](https://github.com/SohamBera16/ML-based-automated-disaster-message-classification-and-response-generation-pipeline/blob/main/screenshots/webpage%20snippet%202.png)
+
+![webpage demo 3](https://github.com/SohamBera16/ML-based-automated-disaster-message-classification-and-response-generation-pipeline/blob/main/screenshots/webpage%20snippet%203.png)
+
+![webpage demo 4](https://github.com/SohamBera16/ML-based-automated-disaster-message-classification-and-response-generation-pipeline/blob/main/screenshots/webpage%20snippet%204.png)
+
+![webpage demo 5](https://github.com/SohamBera16/ML-based-automated-disaster-message-classification-and-response-generation-pipeline/blob/main/screenshots/webpage%20snippet%205.png)
+
+![webpage demo 6](https://github.com/SohamBera16/ML-based-automated-disaster-message-classification-and-response-generation-pipeline/blob/main/screenshots/webpage%20snippet%206.png)
+
+
