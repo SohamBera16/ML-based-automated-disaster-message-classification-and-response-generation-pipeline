@@ -27,4 +27,4 @@ In this project, a machine learning pipeline has been developed to categorize a 
     cd app
 
 3. Run your web app: 
-    python run.py
+     python run.py
