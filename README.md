@@ -51,3 +51,7 @@ classifier.pkl  # saved model
 
 3. Run your web app: 
      python run.py
+     
+- ## Results:
+
+![]()
