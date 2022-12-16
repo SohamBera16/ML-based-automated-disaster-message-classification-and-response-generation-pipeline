@@ -6,6 +6,6 @@ In this project, a machine learning pipeline has been developed to categorize a 
 ## Steps to execute the codes:
  First, install the necessary packages which are the necessary dependencies for the codes to run using the command -
  
- | $ pip install -r requirements.txt |
+     $ pip install -r requirements.txt     
  
  
