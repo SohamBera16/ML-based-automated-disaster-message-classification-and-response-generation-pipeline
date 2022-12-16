@@ -67,3 +67,9 @@ classifier.pkl  # saved model
 ![webpage demo 6](https://github.com/SohamBera16/ML-based-automated-disaster-message-classification-and-response-generation-pipeline/blob/main/screenshots/webpage%20snippet%206.png)
 
 
+Some of the snippets during the run of the ETL pipeline and the model are shown below - 
+
+![runtime image](https://github.com/SohamBera16/ML-based-automated-disaster-message-classification-and-response-generation-pipeline/blob/main/screenshots/run%201.png)
+
+![runtime image 2](https://github.com/SohamBera16/ML-based-automated-disaster-message-classification-and-response-generation-pipeline/blob/main/screenshots/run%202.png)
+
