@@ -6,7 +6,8 @@ In this project, a machine learning pipeline has been developed to categorize a 
 ## Steps to execute the codes:
 
  Clone the repository using the following command -
-     git clone https://github.com/SohamBera16/ML-based-automated-disaster-message-classification-and-response-generation-pipeline.git
+ 
+    git clone https://github.com/SohamBera16/ML-based-automated-disaster-message-classification-and-response-generation-pipeline.git    
      
  First, install the necessary packages which are the necessary dependencies for the codes to run using the command -
  
